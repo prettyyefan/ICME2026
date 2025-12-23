@@ -1,0 +1,2 @@
+# 激活虚拟环境
+.\venv\Scripts\activate
